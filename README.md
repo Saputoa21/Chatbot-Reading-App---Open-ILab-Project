@@ -18,3 +18,8 @@ Using a **RAG (Retrieval-Augmented Generation)** chatbot, the app provides summa
     ├── figma_prototypes/  # Design assets and UI/UX flows
     ├── html_files/        # Structure for the web-based interface
     └── css_javascript/    # Styling and interactive components
+
+
+For references:
+    - Agatha Christie IR Project (https://github.com/Saputoa21/Agatha_Christie_Information_Retrieval_Project.git)
+    - University Web Application Template (https://github.com/Saputoa21/flask_auu.git)
